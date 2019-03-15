@@ -1,0 +1,21 @@
+
+1.Created a repository on Github with the name "MAD314-CV--1896567-"
+
+2.Used "git clone" command for cloning an empty repository into my PC:
+   $ git clone https://github.com/kaurshivdeep/MAD314-CV--1896567-
+
+3.Used "git clone" command for cloning "instructions.txt"(copied from Richbighouse) into "MAD314-CV--1896567-" :
+   $ https://github.com/richbighouse/mad-314-cv-assignment.git
+
+4:To add files, use "git add" command:
+   $ git add instructions.txt report.txt Shivdeep\'s\ Resume-5.pdf
+
+5.To commit files, use "git commit" command:
+	$ git commit -m " files are commited"
+
+6.fetch remote files
+	$ git fetch
+
+7. push files to github repository
+	$ git push
+
